@@ -314,6 +314,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Himalayas](https://himalayas.app/jobs)
 * [Talent Service](https://talentservice.com/vacancies)
 * [Python Devs](https://www.pythondevs.net)
+* [The Healthcare Spot](https://thehealthcarespot.com)
 
 ### Entry Level
 
